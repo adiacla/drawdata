@@ -3,3 +3,6 @@ scikit-learn
 matplotlib
 numpy
 pandas
+ipywidgets
+jupyterlab_widgets
+seaborn
